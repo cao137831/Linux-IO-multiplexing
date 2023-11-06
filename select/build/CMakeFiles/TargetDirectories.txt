@@ -1,0 +1,5 @@
+/home/cao/Desktop/Linux/IO多路复用/select/build/CMakeFiles/server_process.dir
+/home/cao/Desktop/Linux/IO多路复用/select/build/CMakeFiles/server_thread.dir
+/home/cao/Desktop/Linux/IO多路复用/select/build/CMakeFiles/client.dir
+/home/cao/Desktop/Linux/IO多路复用/select/build/CMakeFiles/edit_cache.dir
+/home/cao/Desktop/Linux/IO多路复用/select/build/CMakeFiles/rebuild_cache.dir

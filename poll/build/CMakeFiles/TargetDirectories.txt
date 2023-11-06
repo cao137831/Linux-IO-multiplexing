@@ -1,0 +1,4 @@
+/home/cao/Desktop/Linux/IO多路复用/poll/build/CMakeFiles/server.dir
+/home/cao/Desktop/Linux/IO多路复用/poll/build/CMakeFiles/client.dir
+/home/cao/Desktop/Linux/IO多路复用/poll/build/CMakeFiles/edit_cache.dir
+/home/cao/Desktop/Linux/IO多路复用/poll/build/CMakeFiles/rebuild_cache.dir
